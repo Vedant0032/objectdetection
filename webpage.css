@@ -1,0 +1,40 @@
+body{
+    background-size:cover;
+    background-position:center;
+
+}
+
+#heading{
+    width:100%;
+    font-size:30px;
+}
+
+#pool{
+    font-size:25px;
+    background-color: white;
+    
+}
+
+#watermelon{
+    font-size:25px;
+    background-color: white;
+    
+}
+
+#lamp{
+    font-size:25px;
+    background-color: white;
+    
+}
+
+#dog{
+    font-size:25px;
+    background-color: white;
+    
+}
+
+#image{
+    width:640;
+    height:500;
+    
+}
